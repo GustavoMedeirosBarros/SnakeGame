@@ -35,34 +35,34 @@ Snake game é uma versão clássica e divertida do famoso jogo de computador ond
 
 ## 1. Movimento da cobra:
 
-    - A cobra se move em uma direção constante: para a direita, para a esquerda, para cima ou para baixo.
-    - Você pode mudar a direção da cobra usando as setas do teclado (←, →, ↑, ↓) ou as teclas (w, a, s, d).
+- A cobra se move em uma direção constante: para a direita, para a esquerda, para cima ou para baixo.
+- Você pode mudar a direção da cobra usando as setas do teclado (←, →, ↑, ↓) ou as teclas (w, a, s, d).
 
 ## 2. Crescimento da cobra:
 
-    - A cada colisão com a maça, a cobra cresce de tamanho.
-    - Após comer a maça, a posição da maça é aleatoriamente realocada em uma nova parte do tabuleiro.
+- A cada colisão com a maça, a cobra cresce de tamanho.
+- Após comer a maça, a posição da maça é aleatoriamente realocada em uma nova parte do tabuleiro.
 
 ## 3. Modos de jogo:
 
 ## 1. Fácil:
 
-    - Neste modo, o único jeito de perder o jogo é bater a cabeça da cobra contra o próprio corpo. Caso a cobra colida com as bordas da tela, ela será teletransportada automaticamente para o lado oposto. Este modo é ideal para iniciantes, proporcionando uma experiência mais tranquila e com menos desafios.
+- Neste modo, o único jeito de perder o jogo é bater a cabeça da cobra contra o próprio corpo. Caso a cobra colida com as bordas da tela, ela será teletransportada automaticamente para o lado oposto. Este modo é ideal para iniciantes, proporcionando uma experiência mais tranquila e com menos desafios.
 
 ## 2. Normal:
 
-    - Neste modo, além da colisão com a borda ou com o próprio corpo resultar em perda de jogo, a velocidade da cobra é ligeiramente maior, tornando o jogo mais desafiador em relação ao modo fácil. Recomendado para jogadores que já têm alguma experiência e buscam um desafio moderado.
+- Neste modo, além da colisão com a borda ou com o próprio corpo resultar em perda de jogo, a velocidade da cobra é ligeiramente maior, tornando o jogo mais desafiador em relação ao modo fácil. Recomendado para jogadores que já têm alguma experiência e buscam um desafio moderado.
 
-## 5. Menu:
+## 4. Menu:
 
-    - Botão "Iniciar": Para começar ou reiniciar o jogo.
-    - Botão "Pausar": Para pausar o jogo a qualquer momento.
-    - Botão "Reiniciar": Para reiniciar o jogo após a colisão.
-    - Botão "Menu": Para voltar a tela inicial.
+- Botão "Iniciar": Para começar ou reiniciar o jogo.
+- Botão "Pausar": Para pausar o jogo a qualquer momento.
+- Botão "Reiniciar": Para reiniciar o jogo após a colisão.
+- Botão "Menu": Para voltar a tela inicial.
 
-## 6. Pontuação:
+## 5. Pontuação:
 
-    - A pontuação é incrementada a cada vez que a cobra come um obstáculo. O placar é exibido na parte superior da tela.
+- A pontuação é incrementada a cada vez que a cobra come um obstáculo. O placar é exibido na parte superior da tela.
 
 ## 🖥️ Tecnologias Utilizadas
 
