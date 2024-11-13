@@ -30,7 +30,7 @@ public class Normal extends JFrame {
         cobra = new Cobra(maca);
         larguraTabuleiro = alturaTabuleiro = 400;
 
-        setTitle("Jogo da Cobrinha");
+        setTitle("Jogo da Cobrinha - Modo Dificil");
         setSize(larguraTabuleiro + 16, alturaTabuleiro + 75);
         setResizable(false);
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);

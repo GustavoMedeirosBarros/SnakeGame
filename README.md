@@ -18,6 +18,19 @@ Snake game é uma versão clássica e divertida do famoso jogo de computador ond
 
 ## 📷 Imagens do Jogo
 
+<div align="center">
+
+<img src="/src/resources/img/PrintModoFacil.png" alt="Tela inicial" height="300
+"/>
+<img src="/src/resources/img/ModoFacil.png" alt="Tela inicial" height="300
+"/>
+<img src="/src/resources/img/printModoDificil.png" alt="Tela inicial" height="300
+"/>
+<img src="/src/resources/img/ModoDificil.png" alt="Tela inicial" height="300
+"/>
+
+</div>
+
 ## 🕹️ Regras
 
 ## 1. Movimento da cobra:

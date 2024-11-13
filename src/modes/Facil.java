@@ -30,7 +30,7 @@ public class Facil extends JFrame {
         cobra = new Cobra(maca); // Passa a referência da maçã para a cobra
         larguraTabuleiro = alturaTabuleiro = 400;
 
-        setTitle("Jogo da Cobrinha");
+        setTitle("Jogo da Cobrinha - Modo Facil");
         setSize(larguraTabuleiro + 16, alturaTabuleiro + 75);
         setResizable(false);
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
