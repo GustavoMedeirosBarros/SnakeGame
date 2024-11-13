@@ -20,13 +20,13 @@ Snake game é uma versão clássica e divertida do famoso jogo de computador ond
 
 <div align="center">
 
-<img src="/src/resources/img/PrintModoFacil.png" alt="Tela inicial" height="300
+<img src="/src/resources/img/PrintModoFacil.png" alt="Print facil" height="300
 "/>
-<img src="/src/resources/img/ModoFacil.png" alt="Tela inicial" height="300
+<img src="/src/resources/img/ModoFacil.png" alt="Modo facil" height="300
 "/>
-<img src="/src/resources/img/printModoDificil.png" alt="Tela inicial" height="300
+<img src="/src/resources/img/printModoDificil.png" alt="Print Dificil" height="300
 "/>
-<img src="/src/resources/img/ModoDificil.png" alt="Tela inicial" height="300
+<img src="/src/resources/img/ModoDificil.png" alt="Modo dificil" height="300
 "/>
 
 </div>
@@ -101,7 +101,7 @@ Ou apenas executar o executavel encontrado em /SnakeGame/SnakeGame.jar.
 
 <div align="center">
 
-<img src="/src/resources/img/diagramaClasses.png alt="Tela inicial" height="300
+<img src="/src/resources/img/diagramaClasses.png alt="Diagrama de classes" height="300
 "/>
 
 </div>
